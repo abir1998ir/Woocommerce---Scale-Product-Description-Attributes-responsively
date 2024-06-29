@@ -1,0 +1,1 @@
+# Woocommerce---Scale-Product-Description-Attributes-responsively
